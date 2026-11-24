@@ -55,3 +55,4 @@ backend/uploads/
 backend/.test-*/
 backend/pytest-cache-files-*/
 .pytest_cache/
+backend/college_hub.sql
